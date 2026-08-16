@@ -1,7 +1,0 @@
-# Datasets
-data/*.pkl
-data/*.csv
-
-# Python Cache
-__pycache__/
-*.pyc
