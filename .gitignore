@@ -90,5 +90,16 @@ build/
 /Data_generation/HR_Simulation_Datasets/
 /Fairness_models/FairPFN/data/
 
-#ignore temporarily
-/Fairness_models/FairPFN/
+# Model weights and pretrained artifacts — the big two (83.2MB + 27.7MB)
+Fairness_models/FairPFN/results/models_diff/*.cpkt
+Fairness_models/FairPFN/artifacts/*.pkl
+
+# Raw benchmark/prior data — ~600MB, confirmed unused by your pipeline
+Fairness_models/FairPFN/data/
+Fairness_models/FairPFN/datasets/
+Fairness_models/FairPFN/priors/
+
+# Generated/cache junk
+Fairness_models/FairPFN/**/__pycache__/
+Fairness_models/FairPFN/.ipynb_checkpoints/
+Fairness_models/FairPFN/figures/
