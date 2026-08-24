@@ -1,0 +1,3 @@
+model_name,name_dataset,n_S,n_X,n_U,total_samples,ROC_AUC,Accuracy,Precision,Recall,F1_Score,Statistical_Parity_Diff_(ATE),Disparate_Impact_Ratio,Equal_Opportunity_Diff,Pos_Rate_S1,Pos_Rate_S0
+CFFair,SF_Large_Sample_Size_Dataset_Linear_ReLU_50%_10_base_nodes_u_0p0_seed_0_8_nodes_full_data.csv,3,6,0,10000,0.9218,0.8382,0.8648,0.8018,0.8321,0.0348,0.9276,0.0193,0.4462,0.481
+CFFair,SF_Large_Sample_Size_Dataset_Linear_ReLU_50%_10_base_nodes_u_0p0_seed_1_8_nodes_full_data.csv,3,6,0,10000,0.7321,0.6864,0.7349,0.5833,0.6504,0.0685,1.1889,0.0901,0.4313,0.3628
