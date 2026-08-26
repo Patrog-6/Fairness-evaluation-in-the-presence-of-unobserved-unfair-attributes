@@ -1,3 +1,0 @@
-model_name,name_dataset,n_S,n_X,n_U,total_samples,ROC_AUC,Accuracy,Precision,Recall,F1_Score,Statistical_Parity_Diff_(ATE),Disparate_Impact_Ratio,Equal_Opportunity_Diff,Pos_Rate_S1,Pos_Rate_S0
-CLAIRE,SF_Large_Sample_Size_Dataset_Linear_ReLU_50%_10_base_nodes_u_0p0_seed_0_8_nodes_full_data.csv,3,6,0,10000,0.9214,0.8298,0.8089,0.8636,0.8353,0.1119,0.8103,0.0572,0.4779,0.5898
-CLAIRE,SF_Large_Sample_Size_Dataset_Linear_ReLU_50%_10_base_nodes_u_0p0_seed_1_8_nodes_full_data.csv,3,6,0,10000,0.7404,0.6947,0.8202,0.4987,0.6202,0.2904,2.8225,0.339,0.4498,0.1594

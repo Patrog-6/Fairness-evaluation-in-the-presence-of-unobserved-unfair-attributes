@@ -1,6 +1,6 @@
 model_name,F1_Score,ROC_AUC,Recall,Statistical_Parity_Diff_(ATE),Equal_Opportunity_Diff,DIR_dist,DOFS
-CFFair,1,1,1,5,2,5,1
-CLAIRE,2,2,2,3,3,4,3
-SRCVAE,5,5,5,2,4,2,5
-XGBoost,3,3,3,4,5,3,4
-FairPFN,4,4,4,1,1,1,2
+CFFair,3,3,3,3,2,3,2
+CLAIRE,2,2,2,4,4,4,4
+SRCVAE,5,5,5,2,3,2,5
+XGBoost,1,1,1,5,5,5,3
+FairPFN,4,4,4,1,1,1,1

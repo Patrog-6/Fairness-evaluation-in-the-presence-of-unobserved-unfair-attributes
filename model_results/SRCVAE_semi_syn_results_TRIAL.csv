@@ -1,3 +1,0 @@
-model_name,name_dataset,bias_level,threshold,data_type,n_S,n_X,n_U,total_samples,ROC_AUC,Accuracy,Precision,Recall,F1_Score,Statistical_Parity_Diff_(ATE),Disparate_Impact_Ratio,Equal_Opportunity_Diff,Pos_Rate_S1,Pos_Rate_S0
-SRCVAE,HR_N10000_HighBias_Thresh1.0_Seed1000_BIASED_ALL.csv,HighBias,1.0,BIASED_ALL,2,6,4,10000,0.8352,0.8976,0.3256,0.0154,0.0295,1e-04,1.0282,0.0115,0.0048,0.0047
-SRCVAE,HR_N10000_HighBias_Thresh1.0_Seed1000_BIASED_FAIRNESS.csv,HighBias,1.0,Unknown,1,6,0,10000,0.7138,0.8581,0.1429,0.0816,0.1039,0.0383,0.4442,0.1103,0.0306,0.0688

@@ -1,3 +1,0 @@
-model_name,name_dataset,bias_level,threshold,data_type,n_S,n_X,n_U,total_samples,ROC_AUC,Accuracy,Precision,Recall,F1_Score,Statistical_Parity_Diff_(ATE),Disparate_Impact_Ratio,Equal_Opportunity_Diff,Pos_Rate_S1,Pos_Rate_S0
-XGBoost,HR_N10000_HighBias_Thresh1.0_Seed1000_BIASED_ALL.csv,HighBias,1.0,BIASED_ALL,1,6,4,10000,0.9417,0.9347,0.7164,0.5821,0.6423,0.1925,8.6414,0.1282,0.2177,0.0252
-XGBoost,HR_N10000_HighBias_Thresh1.0_Seed1000_BIASED_FAIRNESS.csv,HighBias,1.0,Unknown,1,6,0,10000,0.9417,0.9347,0.7164,0.5821,0.6423,0.1925,8.6414,0.1282,0.2177,0.0252
