@@ -1,0 +1,6 @@
+,Equal weights (default),Fairness-weighted (2x),Predictive-weighted (2x)
+CFFair,1,1,1
+CLAIRE,3,3,3
+SRCVAE,5,5,5
+XGBoost,4,4,4
+FairPFN,2,2,2
