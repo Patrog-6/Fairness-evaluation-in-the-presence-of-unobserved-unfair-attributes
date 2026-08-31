@@ -86,8 +86,6 @@ build/
 *.bak
 
 # Generated datasets and results
-
-/Data_generation/HR_Simulation_Datasets/
 /Fairness_models/FairPFN/data/
 
 # Model weights and pretrained artifacts — the big two (83.2MB + 27.7MB)
@@ -106,3 +104,5 @@ Fairness_models/FairPFN/figures/
 
 #prediction details
 model_results/*_predictions_detail.csv
+
+Data_generation\SF_and_Hidden_Nodes_Data_Simulation\Notes
