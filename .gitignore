@@ -86,7 +86,7 @@ build/
 *.bak
 
 # Generated datasets and results
-/Data_generation/SF_and_Hidden_Nodes_Data_Simulation/results/
+
 /Data_generation/HR_Simulation_Datasets/
 /Fairness_models/FairPFN/data/
 
